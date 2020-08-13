@@ -1,0 +1,5 @@
+POST http://localhost:7071/api/ConvertCSV
+Content-Type: text/plain
+
+FirstName,LastName,Title,EmailAddress,Company,ProductCategory,AddressLine1,AddressLine2,City,State,ZipCode,Country,GovernmentEmployee,Video
+Jeff,Hollan,Program Manager,my@email.com,Microsoft,Tech,123 Fake St,,Redmond,WA,98052,United States,N,http://mystuff.com
